@@ -9,7 +9,6 @@ This is a solution to the [Ping single column coming soon page](https://www.fron
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -19,8 +18,8 @@ This is a solution to the [Ping single column coming soon page](https://www.fron
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
-- Live Site URL: [live](https://lackevil.github.io/Testimonials-grid-section/)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-oqDSEw_HBa)
+- Live Site URL: [live](https://lackevil.github.io/Ping-single-column-coming-soon-page/)
 
 ## My process
 
